@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working with devops tools
 - 🌱 I’m currently learning tools in cloud native computing foundation (https://www.cncf.io/)
-- 👯 I’m looking to collaborate on all project with real impact
+- 👯 I'm looking to collaborate on any project that has a real impact
 - 💬 Ask me about ...
 
 
