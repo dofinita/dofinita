@@ -1,4 +1,4 @@
-### Hi there welcome to my github profile👋
+### Hi welcome to my github profile👋
 
 
 **dofinita/dofinita** is a ✨site reliability engineer ✨ 
